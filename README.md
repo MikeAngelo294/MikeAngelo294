@@ -1,19 +1,17 @@
-I am currently studying software engineering and investing in online courses provided by TripleTen. 
+<h1 align="center">Hello I am Michael Angelo</h1>
+<h3 align="center">I am currently studying software engineering and investing in online courses provided by TripleTen.  At the beginning of 2024, I enrolled in the 10-month courses provided by Triple Ten, planning to have a career in programming. At the moment, I have learned the basics of coding, HTML, and CSS, and I am now getting introduced to Javascript as I completed my recent work AroundTheUs. I will update my work and resume as I progress into the course. Thank you.</h3>
 
-At the beginning of 2024, I enrolled in the 10-month courses provided by Triple Ten, planning to have a career in programming. At the moment, I have learned the basics of coding, HTML, and CSS, and I am now getting introduced to Javascript as I completed my recent work AroundTheUs. I will update my work and resume as I progress into the course. Thank you. 
+- 🔭 I’m currently working on [AroundTheUs](https://github.com/MikeAngelo294/se_project_aroundtheus)
 
-Reach me through discord through username: michaelangelo294
-<!--
-**MikeAngelo294/MikeAngelo294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Javascript Program logic and methods.**
 
-Here are some ideas to get you started:
+- 📫 How to reach me through email **mikesanchezgow@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I play the Guitar and train in Boxing.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
