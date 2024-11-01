@@ -2,12 +2,13 @@
 I am currently studying software engineering and investing in online courses provided by TripleTen.  At the beginning of 2024, I enrolled in the 10-month courses provided by Triple Ten, planning to have a career in programming. At the moment, I have learned the basics of coding, HTML, and CSS, and I am now getting introduced to Javascript as I completed my recent work AroundTheUs. I will update my work and resume as I progress into the course. Thank you.
 
 - 🔭 I’m currently working on [AroundTheUs](https://github.com/MikeAngelo294/se_project_aroundtheus)
+- Here's the site ([https://github.com/MikeAngelo294/se_project_aroundtheus](https://mikeangelo294.github.io/se_project_aroundtheus/))
 
 - 🌱 I’m currently learning **Javascript Program logic and methods.**
 
 - 📫 How to reach me through email **mikesanchezgow@gmail.com**
 
-- ⚡ Fun fact **I play the Guitar and train in Boxing.**
+- ⚡ Fun fact **I play the Guitar and self service my vehicle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
